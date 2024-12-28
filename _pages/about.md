@@ -18,7 +18,7 @@ You can find my resume here: [Abrams Tong's Resume](../assets/Curriculum_Vitae.p
 
 ## Contact
 - [Email](2858637274@qq.com)
-- [GitHub](https://github.com/AbramesTong)
+- [GitHub](https://github.com/AbramsTong)
 - [WeChat](/images/wechat.jpg)
   
 ## Research Interests
