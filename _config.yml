@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Abrams Tong / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Abrams Tong"
-description              : &description "Master's student in Management Science and Engineering at Xi'an Jiaotong University, specializing in operations research, machine learning, and complex networks. | 西安交通大学管理科学与工程专业硕士，专注于运筹学、机器学习和复杂网络。"
+description              : &description "Master's student in Management Science and Engineering at Xi'an Jiaotong University, specializing in operations research, machine learning, and complex networks."
 url                      : https://AbramsTong.github.io # 您的个人主页 URL
 baseurl                  : "" # 用户主页无需子路径，保持为空
 repository               : "AbramsTong/AbramsTong.github.io" # 您的仓库地址
@@ -15,20 +15,10 @@ author:
   name             : "Abrams Tong"
   pronouns         : # example: "she/her"
   bio              : "Master's student in Management Science and Engineering at Xi'an Jiaotong University."
-  location         : "Xi'an, Shaanxi, PRC"
+  location         : "China Xi'an"
   employer         : "Xi’an Jiaotong University"
   uri              : "https://abrames.github.io/"
   email            : "2858637274@qq.com"
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
