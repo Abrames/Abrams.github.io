@@ -17,14 +17,14 @@ author:
   bio              : "Master's student in Management Science and Engineering at Xi'an Jiaotong University."
   location         : "China Xi'an"
   employer         : "Xi’an Jiaotong University"
-  uri              : "https://abrames.github.io/"
-  email            : "2858637274@qq.com"
+  uri              : # "https://abrames.github.io/"
+  email            : # "2858637274@qq.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Abrames"
+  github           : # "https://github.com/Abrames"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
