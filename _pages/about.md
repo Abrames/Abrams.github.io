@@ -17,7 +17,7 @@ I am very fortunate to have the guidance of my advisor, [Professor Zhou Xiaoyang
 You can find my resume here: [Abrams Tong's Resume](../assets/Curriculum_Vitae.pdf).
 
 ## Contact
-- [Email](2858637274@qq.com) / [GitHub](https://github.com/AbramsTong) / [WeChat](/images/wechat.jpg)
+- [Email](mailto:2858637274@qq.com) / [GitHub](https://github.com/AbramsTong) / [WeChat](/images/wechat.jpg)
   
 ## Research Interests
 ### Operations Research
