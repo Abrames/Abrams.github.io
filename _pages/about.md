@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a master's student in Management Science and Engineering at the [School of Management, Xi'an Jiaotong University](https://som.xjtu.edu.cn/) ([Xi'an Jiaotong University](https://www.xjtu.edu.cn/)). My research interests include operations research, machine learning, and complex networks, focusing on supply chain optimization and risk management, vehicle and drone scheduling, and inventory management.
+I am a master's student in Management Science and Engineering at the [School of Management](https://som.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interests include operations research, machine learning, and complex networks, focusing on supply chain optimization and risk management, vehicle and drone scheduling, and inventory management.
 
 ## Advisor
 I am very fortunate to have the guidance of my advisor, [Professor Zhou Xiaoyang](https://som.xjtu.edu.cn/info/1715/11894.htm) from the School of Management, Xi'an Jiaotong University. Professor Zhou has provided me with immense support and assistance throughout my academic journey!
@@ -17,9 +17,7 @@ I am very fortunate to have the guidance of my advisor, [Professor Zhou Xiaoyang
 You can find my resume here: [Abrams Tong's Resume](../assets/Curriculum_Vitae.pdf).
 
 ## Contact
-- [Email](2858637274@qq.com)
-- [GitHub](https://github.com/AbramsTong)
-- [WeChat](/images/wechat.jpg)
+- [Email](2858637274@qq.com) / [GitHub](https://github.com/AbramsTong) / [WeChat](/images/wechat.jpg)
   
 ## Research Interests
 ### Operations Research
