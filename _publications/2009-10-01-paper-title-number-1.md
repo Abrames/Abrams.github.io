@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Distributionally Robust Planning Based on the Wasserstein Metric: A Collaborative Optimization Model of Business Interruption Insurance Purchase and Operational Measures Under Uncertain Supply Chain Disruptions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper proposes a collaborative optimization model for business interruption insurance and operational measures to address uncertain supply chain disruptions using a distributionally robust planning approach based on the Wasserstein metric.'
+date: In Review
+venue: 'European Journal of Operational Research'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本文提出了一个业务中断保险和运营措施的协作优化模型，以使用基于Wasserstein度量的分布鲁棒规划方法来解决在不确定的供应链中断下的供应链优化问题。
