@@ -9,8 +9,6 @@ baseurl                  : "" # 用户主页无需子路径，保持为空
 repository               : "abrames/abrames.github.io" # 您的仓库地址
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "PP.png"
@@ -76,7 +74,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
