@@ -19,8 +19,8 @@ You can find my resume here: [Abrams Tong's Resume](../assets/Curriculum_Vitae.p
 ## Contact
 - [Email](mailto:XX@stu.pku.edu.cn)
 - [GitHub](https://github.com/Abrames)
-- [WeChat](../images/wechat.jpg)
-- 
+- [![WeChat](images/wechat.jpg)](images/wechat.jpg)
+  
 ## Research Interests
 ### Operations Research
 - Supply chain optimization and risk management
