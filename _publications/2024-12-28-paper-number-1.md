@@ -1,5 +1,5 @@
 ---
-title: "Distributionally Robust Planning Based on the Wasserstein Metric: A Collaborative Optimization Model of Business Interruption Insurance Purchase and Operational Measures Under Uncertain Supply Chain Disruptions"
+title: "Distributionally Robust Optimization Based on the Wasserstein Metric: A Collaborative Optimization Model of Business Interruption Insurance Purchase and Operational Measures Under Uncertain Supply Chain Disruptions"
 collection: publications
 category: manuscripts
 permalink: /publication/wasserstein-robust-planning
