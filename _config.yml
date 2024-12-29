@@ -11,7 +11,7 @@ repository               : "AbramsTong/AbramsTong.github.io" # 您的仓库地�
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "/PP2.png"
+  avatar           : "PP2.png"
   name             : "Abrams Tong"
   pronouns         : # example: "she/her"
   bio              : "Master's student in Management Science and Engineering at Xi'an Jiaotong University."
